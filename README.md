@@ -2,7 +2,7 @@
 
 A single file containing the SetEvent class, which uses datetime, calendar and threading's Timer class to trigger a function at any given time. If the application used to run it crashes or is closed, the function will execute upon its reopening.
 
-SetEvent parameters are:
+__SetEvent parameters are:__
 
   event: function to be run (default: None)
   
